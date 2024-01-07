@@ -1,0 +1,1 @@
+# This is the folder to submit Week 2 exercises
