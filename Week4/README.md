@@ -1,1 +1,0 @@
-# This is the folder to submit Week 4 exercises
